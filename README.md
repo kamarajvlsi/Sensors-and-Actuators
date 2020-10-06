@@ -8,3 +8,9 @@ Classification of Sensors and Actuators - General Requirements for Interfacing -
 UNIT II 	TEMPERATURE SENSORS AND THERMAL ACTUATORS 	
 
 Thermo resistive Sensors: Themistors, Resistance temperature sensors - Silicon resistive sensors - Thermoelectric Sensors - PN Junction Temperature Sensors - Optical and Acoustical Sensors - Thermo mechanical sensors and Actators. 
+
+
+UNIT III 	OPTICAL SENSORS AND ACTUATORS 	
+
+Optical Units and materials - Effects of Optical Radiation - Quantum-Based Optical Sensors - Photoelectric Sensors - Coupled Charge (CCD) Sensors and Detectors - Thermal-Based Optical Sensors - Active Far Infrared (AFIR) Sensors - Optical Actuators. 
+
